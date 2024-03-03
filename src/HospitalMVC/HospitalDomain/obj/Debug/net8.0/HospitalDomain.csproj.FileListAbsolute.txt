@@ -12,3 +12,4 @@ C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\refint\Hos
 C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.pdb
 C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.genruntimeconfig.cache
 C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\ref\HospitalDomain.dll
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.sourcelink.json
