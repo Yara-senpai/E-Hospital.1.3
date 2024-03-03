@@ -1,0 +1,14 @@
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\bin\Debug\net8.0\HospitalDomain.deps.json
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\bin\Debug\net8.0\HospitalDomain.runtimeconfig.json
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\bin\Debug\net8.0\HospitalDomain.dll
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\bin\Debug\net8.0\HospitalDomain.pdb
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.csproj.AssemblyReference.cache
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.AssemblyInfoInputs.cache
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.AssemblyInfo.cs
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.csproj.CoreCompileInputs.cache
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.dll
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\refint\HospitalDomain.dll
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.pdb
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\HospitalDomain.genruntimeconfig.cache
+C:\Project\E-Hospital\src\HospitalMVC\HospitalDomain\obj\Debug\net8.0\ref\HospitalDomain.dll
